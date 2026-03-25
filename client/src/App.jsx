@@ -9,7 +9,7 @@ import { setUserData } from './redux/userSlice'
 import InterviewPage from './pages/interviewPage'
 import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
-import InterviewReport from './pages/InterviewReport'
+import InterviewReport from './pages/interviewReport'
 
 export const ServerUrl  = "https://ai-interview-agent-1-server.onrender.com"
 
