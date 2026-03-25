@@ -13,7 +13,7 @@ import { HiSparkles } from "react-icons/hi";
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import AuthModel from '../components/AuthModel';
-import hrImg from "../assets/HR.png";
+import hrImg from "../assets/hr.png";
 import techImg from "../assets/tech.png";
 import confidenceImg from "../assets/confi.png";
 import creditImg from "../assets/credit.png";
