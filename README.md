@@ -28,7 +28,9 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here — dashboard, interview session, performance report, etc._
+
+> <img width="1890" height="904" alt="image" src="https://github.com/user-attachments/assets/9b746448-a84e-4bea-9e19-67e4c6c1b203" />
+
 
 ---
 
